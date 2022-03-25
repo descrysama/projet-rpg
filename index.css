@@ -1,0 +1,11 @@
+body h1 {
+    text-align: center;
+}
+
+#personnage {
+    display: none;
+}
+
+#personnage-img {
+    width: 100%;
+}
